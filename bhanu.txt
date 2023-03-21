@@ -1,2 +1,0 @@
-hello bhanu
-this is a reset example
